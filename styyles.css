@@ -1,0 +1,6 @@
+.background {
+  height: 100vh;
+  background-color: hsl(10, 79%, 65%);
+  display: flex;
+  justify-content: center;
+}
